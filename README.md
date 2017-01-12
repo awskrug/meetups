@@ -16,6 +16,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
   - [권민재님 - AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
   - [윤제상님 - AWS Lambda를 이용한 CI/CD 기법](http://www.slideshare.net/jesangyoon/aws-lambda-cicd)
 - 1차: 2016년 12월 15일
+
 ### 강남 자격증 취득 준비모임 
 - 2차: [2017년 1월 17일(화)](https://www.meetup.com/awskrug/events/236721527/)
 - 1차: 2016년 12월 14일
