@@ -12,7 +12,6 @@
   - [한종원님 - HB Smith에서는 AWS 이렇게 사용한다](http://www.slideshare.net/addnull/hb-smith-aws)
   - [권민재님 - AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
   - [윤제상님 - AWS Lambda를 이용한 CI/CD 기법](http://www.slideshare.net/jesangyoon/aws-lambda-cicd)
-  - <img src="images/15941350_1311558948891159_2684273664402983473_n.jpg" width="400">
 
 ### 강남 자격증 취득 준비모임 
 
