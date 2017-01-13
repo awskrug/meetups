@@ -15,6 +15,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
   - [한종원님 - HB Smith에서는 AWS 이렇게 사용한다](http://www.slideshare.net/addnull/hb-smith-aws)
   - [권민재님 - AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
   - [윤제상님 - AWS Lambda를 이용한 CI/CD 기법](http://www.slideshare.net/jesangyoon/aws-lambda-cicd)
+  - <img src="images/2017-01-12-16-14-13.jpeg" width="400">
 - 1차: 2016년 12월 15일
 
 ### 강남 자격증 취득 준비모임 
