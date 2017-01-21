@@ -10,11 +10,11 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ### 강남 중급자 모임
 - 3차: 2017년 2월 15일(예정)
 - 2차: 2017년 1월 12일
-  - [김석영님 - 톰캣 세션 클러스터링] (http://www.slideshare.net/deuxksy/tomcat-session-clustering)
-  - [오회근님 - AWS를 활용한 얼굴분석 서비스 만들기]
-    SlideShare : http://www.slideshare.net/HarryOh1/aws-71033837
-    GitHub : http://github.com/harryoh/funnyfaces
-    Poly.ly (csv, DB연동 차트 솔루션) : https://plot.ly/
+  - [김석영님 - 톰캣 세션 클러스터링](http://www.slideshare.net/deuxksy/tomcat-session-clustering)
+  - [오회근님 - AWS를 활용한 얼굴분석 서비스 만들기](http://www.slideshare.net/HarryOh1/aws-71033837)
+  - GitHub : http://github.com/harryoh/funnyfaces
+  - Poly.ly (csv, DB연동 차트 솔루션) : https://plot.ly/
+  - <img src="images/IMG_0922.JPG" width="400">
 - 1차: 2016년 12월 13일 
 
 ### 강남 SE 모임
