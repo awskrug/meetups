@@ -1,4 +1,6 @@
-AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역별 소모임을 운영하고 있습니다. 관심이 있는 분들은 누구나 발표 및 참여하실 수 있습니다. 행사 일정이나 스케줄은 AWSKRUG 페이스북 그룹이나 슬랙 채널을 참고하세요.
+AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역별 소모임을 운영하고 있습니다. 관심이 있는 분들은 누구나 발표 및 참여하실 수 있습니다. [소모임 포함 행사 일정](http://www.awskr.org/groups/)은 AWSKRUG [페이스북 그룹](http://www.facebook.com/groups/awskrug)이나 [슬랙 채널](http://www.awskr.org/slack)을 참고하세요.
+<img src="images/awskrug-meetup.png" width="500">
+
 ## 바로가기
 - [정기 기술 콘퍼런스](#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스 
 - [정기 세미나](#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나 
