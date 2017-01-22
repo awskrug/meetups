@@ -106,8 +106,8 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - RoR환경, capistrano에서의 AWS 배포 - 정상일, NHN 
 - [AWS ELB와 heroku](http://www.slideshare.net/awskr/aws-eb-etc) - 김경민, 블리스소프트 
 
-### Dr. Werner Vogels 초청 강연회 (2012. 3.24)
-- AWSKRUG의 첫모임으로서 Amazon.com CTO인 Werner Vogels 박사님과 함께 한남동 일신빌딩 (Daum사옥)에서 열린 행사로 약 100여명이 참석하였습니다. 
+### [Dr. Werner Vogels 초청 강연회](https://www.facebook.com/events/277432929017855/?acontext=%7B%22ref%22%3A%224%22%2C%22action_history%22%3A%22null%22%7D) (2012. 3.24)
+- AWSKRUG의 첫모임으로서 Amazon.com CTO인 Werner Vogels 박사님과 함께 한남동 일신빌딩 (Daum사옥)에서 열린 행사로 약 150여명이 참석하였습니다. 
 
 ## 비정기 모임 
 
