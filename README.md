@@ -45,7 +45,7 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [DynamoDB 안과 밖](http://www.slideshare.net/awskr/dynamodb-67563528) - 정민영, 비트패킹컴퍼니
 - [추천서비스 고군분투기 on AWS](http://www.slideshare.net/awskr/on-aws-67563518) - 박진우, 레코벨
 
-### [제7회 AWSKRUG 세미나 - 서버리스 특집](http://onoffmix.com/event/76932) (2015.9.21)
+### [제7회 AWSKRUG 세미나 - 서버리스 특집](http://onoffmix.com/event/76932) (2016.9.21)
 - [AWS Lambda + S3를 이용한 썸네일 생성 및 운영](http://www.slideshare.net/seapy/awskrug-2016-9-lambda-s3) - 정창훈, 당근마켓
 - S3 와 Lambda를 이용하여 가상터치 솔루션 사용자 통계 분석하기 - 이웅재, 브이터치
 - Apex를 사용한 Lambda function 관리 및 배포 - 이무열, 로앤컴퍼니
