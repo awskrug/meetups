@@ -130,8 +130,17 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 ### [AWS re:Invent Live! 2015](http://onoffmix.com/event/54333) (2015.10.8)
 - AWSKRUG 회원들과 함께 리인벤트 키노트를 밤샘 라이브로 함께 보고, 게임 및 핸즈온랩도 진행하는 이벤트 
 
+### [AWSKRUG 알파유저 스터디](http://channy.creation.net/blog/1082) (2015.8.21)
+- [1주차 - AWS 소개 및 시작하기](http://www.slideshare.net/awskorea/aws-for-alpha-users-1)
+- [2주차 - 서버 없이 웹 사이트 호스팅하기](http://www.slideshare.net/awskorea/aws-for-alpha-users-2)
+- [3주차 - AWS Elastic Beanstalk으로 워드프레스 운영하기](http://www.slideshare.net/awskorea/aws-for-alpha-users-3)
+
 ### [AWSKRUG 미니 DevDay](http://onoffmix.com/event/50267) (2015.7.21)
 - AWS 신규 발표 서비스 소개 (Markku Lepisto/윤석찬, AWS테크에반젤리스트)
+
+### AWSKRUG 초급사용자 워크샵(2015.4-7)
+- 스터디서치 개설 AWS 튜토리얼 및 실습     
+- 실습 진행: 김승연 
 
 # 소모임 
 AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 운영하고 있습니다. 각 소모임을 활성화 하기 위해 아래와 같은 지원 패키지를 준비하였습니다. 소모임을 운영하거나 참여하자 하시는 분은 http://www.awskr.org/groups/ 페이지를 참고하시기 바랍니다.(매월 일정도 확인하실 수 있습니다.)     
