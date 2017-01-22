@@ -1,9 +1,14 @@
-AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역별 소모임을 운영하고 있습니다. 관심이 있는 분들은 누구나 참여하실 수 있습니다.
+AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역별 소모임을 운영하고 있습니다. 관심이 있는 분들은 누구나 발표 및 참여하실 수 있습니다. 행사 일정이나 스케줄은 AWSKRUG 페이스북 그룹이나 슬랙 채널을 참고하세요.
+## 바로가기
+- [정기 기술 콘퍼런스](https://github.com/awskrug/meetups/blob/master/README.md#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스 
+- [정기 세미나](https://github.com/awskrug/meetups#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나 
+- [비정기 모임](https://github.com/awskrug/meetups#%EB%B9%84%EC%A0%95%EA%B8%B0-%EB%AA%A8%EC%9E%84): 각종 실습 행사 및 워크샵
+- [소모임](https://github.com/awskrug/meetups#awskrug-%EC%86%8C%EB%AA%A8%EC%9E%84): 강남 및 판교 등 지역 모임, 자격증 취득등 분야별 모임
 
 # AWSKRUG 정기 모임
-AWSKRUG에서는 분기 및 반기별로 주제별 정기 세미나 및 re:Invent 특집 콘퍼런스를 개최하고 있습니다. 주로 100-300명 규모의 세미나로서 누구나 발표 혹은 참여하실 수 있습니다.
+AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다. 
 
-## 기술 콘퍼런스
+## 정기 기술 콘퍼런스
 
 ### [2016 re:Invent 특집](http://onoffmix.com/event/84915) (2017.1.21)
 - 개발자를 위한 Amazon Lightsail Deep-Dive, 정창훈 (당근마켓 개발자)
