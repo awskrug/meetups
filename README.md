@@ -1,9 +1,9 @@
 AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역별 소모임을 운영하고 있습니다. 관심이 있는 분들은 누구나 발표 및 참여하실 수 있습니다. 행사 일정이나 스케줄은 AWSKRUG 페이스북 그룹이나 슬랙 채널을 참고하세요.
 ## 바로가기
-- [정기 기술 콘퍼런스](https://github.com/awskrug/meetups/blob/master/README.md#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스 
-- [정기 세미나](https://github.com/awskrug/meetups#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나 
-- [비정기 모임](https://github.com/awskrug/meetups#%EB%B9%84%EC%A0%95%EA%B8%B0-%EB%AA%A8%EC%9E%84): 각종 실습 행사 및 워크샵
-- [소모임](https://github.com/awskrug/meetups#awskrug-%EC%86%8C%EB%AA%A8%EC%9E%84): 강남 및 판교 등 지역 모임, 자격증 취득등 분야별 모임
+- [정기 기술 콘퍼런스](#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스 
+- [정기 세미나](#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나 
+- [비정기 모임](#%EB%B9%84%EC%A0%95%EA%B8%B0-%EB%AA%A8%EC%9E%84): 각종 실습 행사 및 워크샵
+- [소모임](#%EC%86%8C%EB%AA%A8%EC%9E%84): 강남 및 판교 등 지역 모임, 자격증 취득등 분야별 모임
 
 # AWSKRUG 정기 모임
 AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다. 
@@ -130,7 +130,7 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 ### [AWSKRUG 미니 DevDay](http://onoffmix.com/event/50267) (2015.7.21)
 - AWS 신규 발표 서비스 소개 (Markku Lepisto/윤석찬, AWS테크에반젤리스트)
 
-# AWSKRUG 소모임 
+# 소모임 
 AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 운영하고 있습니다. 각 소모임을 활성화 하기 위해 아래와 같은 지원 패키지를 준비하였습니다. 소모임을 운영하거나 참여하자 하시는 분은 http://www.awskr.org/groups/ 페이지를 참고하시기 바랍니다.(매월 일정도 확인하실 수 있습니다.)     
 
 ## 강남 지역 모임
