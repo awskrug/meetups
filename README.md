@@ -14,22 +14,23 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 ## 정기 기술 콘퍼런스
 
 ### [2016 re:Invent 특집](http://onoffmix.com/event/84915) (2017.1.21)
-- 개발자를 위한 Amazon Lightsail Deep-Dive, 정창훈 (당근마켓 개발자)
-- Amazon Athena를 통한 데이터 분석하기, 김명보(VCNC 개발자)
-- Amazon Lex를 이용한 초간단 인공지능 챗봇 만들기, 이두희 (멋쟁이 사자처럼)
-- AWS Step Functions을 통한 서버리스 마이크로서비스 만들기, 김현민(4CSoft 개발자)
-- Blox: Docker 클러스터링에 ECS만으로는 부족하셨다고요?, 유은총 (스포카 개발자)
-- 실시간 유동 인구 측정을 위한 서버리스 분석 플랫폼 구축 사례, 김승연
-- AWS re:Invent 신규 서비스 총정리, 윤석찬 (AWS 테크에반젤리스트)
+- [개발자를 위한 Amazon Lightsail Deep-Dive](http://www.slideshare.net/awskr/amazon-lightsail-deepdive-71332528), 정창훈 (당근마켓 개발자)
+- [Amazon Athena를 통한 데이터 분석하기](http://www.slideshare.net/awskr/amazon-athena-zeppelin), 김명보(VCNC 개발자)
+- [Amazon Lex를 이용한 초간단 인공지능 챗봇 만들기](http://www.slideshare.net/awskr/aws-lex), 이두희 (멋쟁이 사자처럼)
+- [AWS Step Functions을 통한 서버리스 마이크로서비스 만들기](http://www.slideshare.net/awskr/aws-step-functions-4csoft), 김현민(4CSoft 개발자)
+- [Blox: Docker 클러스터링에 ECS만으로는 부족하셨다고요?](http://www.slideshare.net/awskr/blox-docker-ecs), 유은총 (스포카 개발자)
+- [실시간 유동 인구 측정을 위한 서버리스 분석 플랫폼 구축 사례](http://www.slideshare.net/awskr/aws-zeroweb), 김승연 (제로웹 CTO)
+- [AWS re:Invent 신규 서비스 총정리](https://www.slideshare.net/awskr/reinvent-recap-for-awskrug), 윤석찬 (AWS 테크에반젤리스트)
+- [녹화 동영상 및 스케치 모음](https://www.youtube.com/playlist?list=PLORxAVAC5fUUhOFLwydw9wKDtL-tv60z_)
 
 ### [2015 re:Invent 특집](http://onoffmix.com/event/55782) (2015.11.7)
 - [re:Invent 2015 신규 서비스 소개- 데이터 관점에서](http://www.slideshare.net/awskr/awskrug-reinvent-iot) - 윤석찬, AWS 테크에반젤리스트
 - re:Invent 주요 신규 기술 소개 - 모바일, IoT 중심으로, 정민영, 비트패킹컴퍼니
 - re:Invent 행사 후기 - 사용자 관점에서 - 김명보, VCNC 
-- [re:Invent 앵콜세션] DAT202 – Managed Database Options on AWS - 백정상, IGAWorks  
-- [re:Invent 앵콜세션] GAM201 – Cloud Gaming Architectures from Mobile to Social to MMO - 안재만, 데브시스터즈
+- [re:Invent 앵콜세션] [DAT202 – Managed Database Options on AWS](http://www.slideshare.net/AmazonWebServices/dat202-managed-database-options-on-aws#54) - 백정상, IGAWorks  
+- [re:Invent 앵콜세션] [GAM201 – Cloud Gaming Architectures from Mobile to Social to MMO](http://www.slideshare.net/AmazonWebServices/gam201-cloud-gaming-architectures-from-mobile-to-social-to-mmo#18) - 안재만, 데브시스터즈
 - re:Invent 행사 후기 - 파트너사 관점에서 - 박정수, GS네오텍/ 기영삼, 메가존 
-- [re:Invent 주요 서비스 요약 - 인프라 및 보안 기술 변화](http://www.slideshare.net/awskr/awskrug-reinvent) - 박상욱, 클라우드 노아
+- [re:Invent 주요 서비스 요약 - 인프라 및 보안 기술 변화](http://www.slideshare.net/awskr/awskrug-reinvent) - 박상욱, 클라우드노아
 
 ## 정기 세미나
 
