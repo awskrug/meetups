@@ -180,6 +180,10 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 - 1차: 2017년 1월 19일 
 
 ### 판교 중급자 모임
+- 3차: [2017년 2월 9일](https://www.meetup.com/ko-KR/awskrug/events/237355577/)
+  - [Build Custom AMI With Packer](https://github.com/giseongeom/presentations/blob/master/2017/2017.02.09-AWS-pangyo-mid/ec2-custom-ami-with-packer.pdf)
+  - [CloudFront](https://docs.google.com/presentation/d/1IIpg85ycTGsVbxDr1lamtJMRbsTVsR5iJa3aFbYyfCE/edit?usp=sharing)
+  - <img src="images/pangyo_mid_3.jpg" width="400">
 - 2차: [2017년 1월 6일](https://www.meetup.com/awskrug/events/236661048/)
   - [AWS Cognito Federation Identity의 사용법과 역할 - 박진언](https://jinunpark.github.io/awskrug_20170106_introduction_to_aws_cognito)
   - [클라우드에서의 보안 - 정도현](http://www.slideshare.net/AmazonWebServices/intro-to-aws-security-50364629)
