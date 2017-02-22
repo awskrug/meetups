@@ -153,7 +153,14 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 - 1차: 2016년 12월 7일
 
 ### 강남 중급자 모임
-- 3차: 2017년 2월 15일(예정)
+- 4차: [2017년 3월 15일(예정)](https://www.meetup.com/awskrug/events/237902259/)
+- 3차: [2017년 2월 14일](https://www.meetup.com/awskrug/events/237360350/)
+  - [오회근님 - AWS를 활용한 얼굴분석 서비스 만들기 핸즈온랩]
+  - [AWS를 활용한 얼굴분석 서비스 만들기 #1 (시작)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%EC%8B%9C%EC%9E%91-4aebbda19b36#.gw0yphb9w)
+  - [AWS를 활용한 얼굴분석 서비스 만들기 #2(라즈베리파이)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4-9d774277df2f#.gp0qkykba)
+  - [AWS를 활용한 얼굴분석 서비스 만들기 #3 (AWS)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-3-aws-91be55d1a109#.kz13rmob3)
+  - [AWS를 활용한 얼굴분석 서비스 만들기 #4 (Visualization)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-4-visualization-82667088f257#.cuqu2e1wh)
+  - [AWS를 활용한 얼굴분석 서비스 만들기 #5 (마무리)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-5-%EB%A7%88%EB%AC%B4%EB%A6%AC-d1bf9905c4a3#.g6nx2lq7p)
 - 2차: 2017년 1월 12일
   - [김석영님 - 톰캣 세션 클러스터링](http://www.slideshare.net/deuxksy/tomcat-session-clustering)
   - [오회근님 - AWS를 활용한 얼굴분석 서비스 만들기](http://www.slideshare.net/HarryOh1/aws-71033837)
@@ -163,6 +170,11 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 - 1차: 2016년 12월 13일 
 
 ### 강남 SE 모임
+- 4차: [2017년 3월 8일(예정)](https://www.meetup.com/awskrug/events/237902172/)
+- 3차: [2017년 2월 11일](https://www.meetup.com/awskrug/events/237486291/)
+  - 김현민님 - 한국 중소기업 개발자의 AWS 사용방법
+  - 김세연님 - AWS 이용후기
+  - [이영진님 - AWS 경험기](https://www.slideshare.net/secret/KEBcOqxtEJ9vC1)
 - 2차: 2017년 1월 11일
   - [한종원님 - HB Smith에서는 AWS 이렇게 사용한다](http://www.slideshare.net/addnull/hb-smith-aws)
   - [권민재님 - AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
