@@ -207,3 +207,11 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
   - [OpenSSL에 얽힌 비화](https://coolspeed.wordpress.com/2015/02/16/unseeable_comrade_in_arms/)
   - <img src="images/15941350_1311558948891159_2684273664402983473_n.jpg" width="400">
 - 1차: 2016년 12월 8일 
+
+## 구로-신촌 지역 모임
+
+### 구로-신촌 모임
+- 1차: [2017년 3월 13일](https://www.meetup.com/awskrug/events/238137039)
+  - 이준희님 - [JAWS Days 참관 후기](http://www.slideshare.net/JoonHeeLee14/2017-jaws-days-24-20170313)
+  - 신승우님 - 이미지스토리지 AWS S3로 이사 가기
+  - <img src="images/guro-shinchon_1.jpg" width="400">
