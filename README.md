@@ -171,10 +171,11 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 
 ### 강남 SE 모임
 - 5차: [2017년 4월 5일(예정)](https://www.meetup.com/awskrug/events/238281757/)
-  - 김준영님 - 미공개
-  - 윤제상님 - S3 파헤치기
+  - 김준영님 - 미공개
+  - 윤제상님 - S3 파헤치기
 - 4차: [2017년 3월 8일](https://www.meetup.com/awskrug/events/237902172/)
-  - [한종원님 - AWS Lambdas with a Static Outgoing IP](https://www.slideshare.net/addnull/aws-lambdas-with-a-static-outgoing-ip)
+  - [한종원님 - AWS Lambdas with a Static Outgoing IP](https://www.slideshare.net/addnull/aws-lambdas-with-a-static-outgoing-ip)
+  - <img src="images/AWS_SE_20170308_05.jpg" width="400">
 - 3차: [2017년 2월 11일](https://www.meetup.com/awskrug/events/237486291/)
   - 김현민님 - 한국 중소기업 개발자의 AWS 사용방법
   - 김세연님 - AWS 이용후기
