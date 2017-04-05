@@ -170,9 +170,12 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 - 1차: 2016년 12월 13일 
 
 ### 강남 SE 모임
-- 5차: [2017년 4월 5일(예정)](https://www.meetup.com/awskrug/events/238281757/)
+- 6차: [2017년 5월 10일(예정)](https://www.meetup.com/awskrug/events/238281757/)
+  - 박신홍님 - TensorFlow on EC2
+  - Hands On - 나만의 Alexa Custom Skill 만들기 (박상욱)
+- 5차: [2017년 4월 5일](https://www.meetup.com/awskrug/events/238281757/)
   - 김준영님 - 미공개
-  - 윤제상님 - S3 파헤치기
+  - [윤제상님 - S3를 이용한 효과적인 SPA 배포](https://www.slideshare.net/jesangyoon/aws-s3-spa)
 - 4차: [2017년 3월 8일](https://www.meetup.com/awskrug/events/237902172/)
   - [한종원님 - AWS Lambdas with a Static Outgoing IP](https://www.slideshare.net/addnull/aws-lambdas-with-a-static-outgoing-ip)
   - <img src="images/AWS_SE_20170308_05.jpg" width="400">
