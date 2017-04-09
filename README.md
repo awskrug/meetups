@@ -150,21 +150,21 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 
 ### 강남 초급자 모임
 - 5차: [2017년 4월 4일](https://www.meetup.com/awskrug/events/238551485/)
-  - [이재일님 - AWS Cognito 101](https://www.slideshare.net/volantrat/aws-cognito-101)
-  - [곽규복님 - EC2 예약인스턴스 알아보기](https://kyupokaws.wordpress.com/2017/04/04/rireserved-instance-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/)  
+  - [이재일님 - AWS Cognito 101](https://www.slideshare.net/volantrat/aws-cognito-101)
+  - [곽규복님 - EC2 예약인스턴스 알아보기](https://kyupokaws.wordpress.com/2017/04/04/rireserved-instance-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/)  
 - 4차: [2017년 3월 6일](https://www.meetup.com/awskrug/events/237863547/)
-  - [이종호님 - RDS MySQL 및 RDS Aurora 장단점](http://blog.naver.com/sory1008/220950167041)
-  - [최선근님 - AWS에서 Tensorflow 돌려보기](https://sunkeunchoi.github.io/awkrug-gangnam-beginner-2017-03-06/)  
+  - [이종호님 - RDS MySQL 및 RDS Aurora 장단점](http://blog.naver.com/sory1008/220950167041)
+  - [최선근님 - AWS에서 Tensorflow 돌려보기](https://sunkeunchoi.github.io/awkrug-gangnam-beginner-2017-03-06/)  
 - 3차: [2017년 2월 7일](https://www.meetup.com/awskrug/events/237184794/)
-  - [서태호님 - Route53 활용하기](https://brunch.co.kr/@topasvga/49)
-  - [정도현님 - qwiklabs 실습해보기](qwiklabs.com)
-  - [곽규복님 - SA Associate 합격후기](kyupokaws.tk)
+  - [서태호님 - Route53 활용하기](https://brunch.co.kr/@topasvga/49)
+  - [정도현님 - qwiklabs 실습해보기](qwiklabs.com)
+  - [곽규복님 - SA Associate 합격후기](kyupokaws.tk)
 - 2차: [2017년 1월 11일](https://www.meetup.com/awskrug/events/236720501/)
-  - [신상재님 - 클라우드 환경과 WebAPI 이야기](https://goo.gl/cp50KX)
-  - [김석영님 - S3 with CF & Route53](https://goo.gl/mal5Uf)
-  - [정도현님 - AWS계정을 만들고 해야할 것](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
+  - [신상재님 - 클라우드 환경과 WebAPI 이야기](https://goo.gl/cp50KX)
+  - [김석영님 - S3 with CF & Route53](https://goo.gl/mal5Uf)
+  - [정도현님 - AWS계정을 만들고 해야할 것](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
 - 1차: 2016년 12월 7일
-  - [곽규복님 - AWS 시작하기](https://goo.gl/FdGbtZ)
+  - [곽규복님 - AWS 시작하기](https://goo.gl/FdGbtZ)
 
 ### 강남 중급자 모임
 - 4차: [2017년 3월 15일(예정)](https://www.meetup.com/awskrug/events/237902259/)
