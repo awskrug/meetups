@@ -219,3 +219,8 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
   - 이준희님 - [JAWS Days 참관 후기](http://www.slideshare.net/JoonHeeLee14/2017-jaws-days-24-20170313)
   - 신승우님 - 이미지스토리지 AWS S3로 이사 가기
   - <img src="images/guro-shinchon_1.jpg" width="400">
+- 2차: [2017년 4월 6일](https://www.meetup.com/awskrug/events/238411836/)
+  - 김영헌님 - [나의 AWS 첫걸음 - Lambda로 시작하는 나의 지출 데이터 수집](https://www.slideshare.net/YoungKim15/aws-lambda-74604471)
+  - 강효진님 - [ElasticBeansTalk - 콩과의 첫 대화](https://docs.google.com/presentation/d/14_n-QMHdAx2lIl-mhBsVnfrTUMR6RoKQWWUSAje9ZUs/edit?usp=sharing)
+  - 정도현님 - [EC2 Deep Dive](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-deep-dive-on-amazon-ec2-instances-featuring-performance-optimization-best-practices-cmp301)
+  - <img src="images/guro-shinchon_2.jpg" width="400" />
