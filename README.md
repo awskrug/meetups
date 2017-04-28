@@ -3,13 +3,13 @@ AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역
 <img src="images/awskrug-meetup.png" width="500">
 
 ## 바로가기
-- [정기 기술 콘퍼런스](#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스 
-- [정기 세미나](#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나 
+- [정기 기술 콘퍼런스](#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스
+- [정기 세미나](#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나
 - [비정기 모임](#%EB%B9%84%EC%A0%95%EA%B8%B0-%EB%AA%A8%EC%9E%84): 각종 실습 행사 및 워크샵
 - [소모임](#%EC%86%8C%EB%AA%A8%EC%9E%84): 강남 및 판교 등 지역 모임, 자격증 취득등 분야별 모임
 
 # AWSKRUG 정기 모임
-AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다. 
+AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다.
 
 ## 정기 기술 콘퍼런스
 
@@ -26,10 +26,10 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 ### [2015 re:Invent 특집](http://onoffmix.com/event/55782) (2015.11.7)
 - [re:Invent 2015 신규 서비스 소개- 데이터 관점에서](http://www.slideshare.net/awskr/awskrug-reinvent-iot) - 윤석찬, AWS 테크에반젤리스트
 - re:Invent 주요 신규 기술 소개 - 모바일, IoT 중심으로, 정민영, 비트패킹컴퍼니
-- re:Invent 행사 후기 - 사용자 관점에서 - 김명보, VCNC 
+- re:Invent 행사 후기 - 사용자 관점에서 - 김명보, VCNC
 - [re:Invent 앵콜세션] [DAT202 – Managed Database Options on AWS](http://www.slideshare.net/AmazonWebServices/dat202-managed-database-options-on-aws#54) - 백정상, IGAWorks  
 - [re:Invent 앵콜세션] [GAM201 – Cloud Gaming Architectures from Mobile to Social to MMO](http://www.slideshare.net/AmazonWebServices/gam201-cloud-gaming-architectures-from-mobile-to-social-to-mmo#18) - 안재만, 데브시스터즈
-- re:Invent 행사 후기 - 파트너사 관점에서 - 박정수, GS네오텍/ 기영삼, 메가존 
+- re:Invent 행사 후기 - 파트너사 관점에서 - 박정수, GS네오텍/ 기영삼, 메가존
 - [re:Invent 주요 서비스 요약 - 인프라 및 보안 기술 변화](http://www.slideshare.net/awskr/awskrug-reinvent) - 박상욱, 클라우드노아
 
 ## 정기 세미나
@@ -41,7 +41,7 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [AWS IoT 버튼을 통한 초인종 만들기](http://www.slideshare.net/awskr/aws-iot-68960735) - 강인규, 배달의민족
 
 ### [제8회 AWSKRUG 세미나 - DB특집](https://www.meetup.com/awskrug/events/234609708/) (2016.10.19)
-- 월간 AWS 신규 서비스 업데이트 - 윤석찬, AWS 테크에반젤리스트 
+- 월간 AWS 신규 서비스 업데이트 - 윤석찬, AWS 테크에반젤리스트
 - [DynamoDB를 이용한 PHP & Django 세션 공유](http://www.slideshare.net/awskr/dynamodb-php-django) - 강대성, 피플펀드컴퍼니
 - [DynamoDB 안과 밖](http://www.slideshare.net/awskr/dynamodb-67563528) - 정민영, 비트패킹컴퍼니
 - [추천서비스 고군분투기 on AWS](http://www.slideshare.net/awskr/on-aws-67563518) - 박진우, 레코벨
@@ -54,7 +54,7 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [Kinesis / Lambda / EMR / Redshift 를 이용한 빅데이터 분석](http://www.slideshare.net/awskr/kinesis-lambda-emr-redshift-big-data) - 이상현, 빙글
 
 ### [제6회 AWSKRUG 세미나 - 일본JAWS 합동 모임](http://onoffmix.com/event/65252) (2016.5.20)
-- [일본 AWS 콘텐츠 활용 매뉴얼](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1) - 정도현, 마메조 
+- [일본 AWS 콘텐츠 활용 매뉴얼](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1) - 정도현, 마메조
 - [70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing) - 김명보, VCNC
 - [Serverless Real-Time Analysis](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-serverless-realtime-analysis) - 정민영, 비트패킹컴퍼니
 - [태양광발전소 원격 감시 시스템의 대량데이터 해석](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic) - 조정민, 株式会社fusic
@@ -65,7 +65,7 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [서버리스 아키텍처 중심 클라우드 컴퓨팅의 흐름](https://www.youtube.com/watch?v=oYYn4tGjxS0&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=4) - 정도현, 마메조)
 - [Eclair를 활용한 손쉬운 EC2 인스턴스 관리하기](https://www.youtube.com/watch?v=aTzYkIt1LAw&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=5) - 김민규, 데브시스터즈
 - [AWS CloudFormation Designer를 이용한 나만의 클라우드 아키텍처 구성하기](https://www.youtube.com/watch?v=yyvXqQhHPIk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=6) - 박상욱/장문기, 메가존
-- [AWS 실시간 분석 서비스 삼총사를 활용한 초간단 분석 플랫폼 구성하기](https://www.youtube.com/watch?v=ATrUK00jUBk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=7) - 정민영, 비트패킹컴퍼니 
+- [AWS 실시간 분석 서비스 삼총사를 활용한 초간단 분석 플랫폼 구성하기](https://www.youtube.com/watch?v=ATrUK00jUBk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=7) - 정민영, 비트패킹컴퍼니
 - [Amazon EMR 기반 Spark을 이용한 대용량 데이터 분석하기](https://www.youtube.com/watch?v=oXO3JIyqH4g&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=8) - 김상우, VCNC
 
 ### [제4회 AWSKRUG 세미나](http://onoffmix.com/event/50755) (2015.8.15)
@@ -100,24 +100,24 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [Autoscale 활용을 위한 배포전략](http://www.slideshare.net/awskr/aws-kr-ug-1-aws) - 정민영, Move Inc
 - [GitHub과 AWS를 이용한 파이썬 웹 배포 시스템](http://www.slideshare.net/awskr/aws-kr-ug-1-aws-github) - 홍민희, Crosspop
 - [Autoscaling으로 서버 비용 아끼기](http://www.slideshare.net/awskr/aws-kr-ug-1-autoscaling) - 김현준
-- [s3cmd를 활용한 CloudFront 배포 전략](http://www.slideshare.net/awskr/aws-kr-ug-1-cloudfront-s3) - 박현우, SmartStudy 
+- [s3cmd를 활용한 CloudFront 배포 전략](http://www.slideshare.net/awskr/aws-kr-ug-1-cloudfront-s3) - 박현우, SmartStudy
 - [AWS를 활용한 모바일 게임 서버 개발 - 퍼즐 주주의 사례를 중심으로](http://www.slideshare.net/awskorea/gaming-on-aws-aws-20909525) - 윤석주, 넥슨
 - [Between 아키텍쳐&배포전략](http://www.slideshare.net/awskr/aws-kr-ug-1) - 이정행, VCNC
 - 이음 아키텍쳐 & beanstalk를 활용한 배포 - 원강희, 이음소시어스
-- RoR환경, capistrano에서의 AWS 배포 - 정상일, NHN 
-- [AWS ELB와 heroku](http://www.slideshare.net/awskr/aws-eb-etc) - 김경민, 블리스소프트 
+- RoR환경, capistrano에서의 AWS 배포 - 정상일, NHN
+- [AWS ELB와 heroku](http://www.slideshare.net/awskr/aws-eb-etc) - 김경민, 블리스소프트
 
 ### [Dr. Werner Vogels 초청 강연회](https://www.facebook.com/events/277432929017855/?acontext=%7B%22ref%22%3A%224%22%2C%22action_history%22%3A%22null%22%7D) (2012. 3.24)
-- AWSKRUG의 첫모임으로서 Amazon.com CTO인 Werner Vogels 박사님과 함께 한남동 일신빌딩 (Daum사옥)에서 열린 행사로 약 150여명이 참석하였습니다. 
+- AWSKRUG의 첫모임으로서 Amazon.com CTO인 Werner Vogels 박사님과 함께 한남동 일신빌딩 (Daum사옥)에서 열린 행사로 약 150여명이 참석하였습니다.
 
-## 비정기 모임 
+## 비정기 모임
 
 ### [AWS re:Invent Live! 2016](http://onoffmix.com/event/83908) (2016.12.1)
-- AWSKRUG 회원들과 함께 리인벤트 키노트를 밤샘 라이브로 함께 보고, 게임 및 핸즈온랩도 진행하는 이벤트 
+- AWSKRUG 회원들과 함께 리인벤트 키노트를 밤샘 라이브로 함께 보고, 게임 및 핸즈온랩도 진행하는 이벤트
 
 ### [AWS 서버리스 스터디 모임](http://onoffmix.com/event/65174) (2016.4.4)
 - AWSKRUG 회원들과 AWS Lammbda를 활용해 텔레그램 메시지를 슬랙으로 옮기는 실습 워크샵을 진행하였습니다.
-- 실습 가이드 다운로드 
+- 실습 가이드 다운로드
 - 실습 진행: 김승연
 
 ### [AWSKRUG 2016 신년회](http://onoffmix.com/event/60960) (2016.1.27)
@@ -125,11 +125,11 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 
 ### [AWSKRUG 부산 스터디 모임](http://onoffmix.com/event/58326) (2015.12.5)
 - 부산 지역 AWS 관심자들과 함께 Amazon EC2, RDS, ELB 및 S3 등을 통해 워드프레스 사이트 구축하는 실습을 진행했습니다.
-- 실습 가이드 다운로드 
+- 실습 가이드 다운로드
 - 실습 진행: 박상욱
 
 ### [AWS re:Invent Live! 2015](http://onoffmix.com/event/54333) (2015.10.8)
-- AWSKRUG 회원들과 함께 리인벤트 키노트를 밤샘 라이브로 함께 보고, 게임 및 핸즈온랩도 진행하는 이벤트 
+- AWSKRUG 회원들과 함께 리인벤트 키노트를 밤샘 라이브로 함께 보고, 게임 및 핸즈온랩도 진행하는 이벤트
 
 ### [AWSKRUG 알파유저 스터디](http://channy.creation.net/blog/1082) (2015.8.21)
 - [1주차 - AWS 소개 및 시작하기](http://www.slideshare.net/awskorea/aws-for-alpha-users-1)
@@ -141,9 +141,9 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 
 ### AWSKRUG 초급사용자 워크샵(2015.4-7)
 - 스터디서치 개설 AWS 튜토리얼 및 실습     
-- 실습 진행: 김승연 
+- 실습 진행: 김승연
 
-# 소모임 
+# 소모임
 AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 운영하고 있습니다. 각 소모임을 활성화 하기 위해 아래와 같은 지원 패키지를 준비하였습니다. 소모임을 운영하거나 참여하자 하시는 분은 http://www.awskr.org/groups/ 페이지를 참고하시기 바랍니다.(매월 일정도 확인하실 수 있습니다.)     
 
 ## 강남 지역 모임
@@ -167,7 +167,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
   - GitHub : http://github.com/harryoh/funnyfaces
   - Poly.ly (csv, DB연동 차트 솔루션) : https://plot.ly/
   - <img src="images/IMG_0922.JPG" width="400">
-- 1차: 2016년 12월 13일 
+- 1차: 2016년 12월 13일
 
 ### 강남 SE 모임
 - 5차: [2017년 4월 5일(예정)](https://www.meetup.com/awskrug/events/238281757/)
@@ -187,14 +187,14 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
   - <img src="images/2017-01-12-16-14-13.jpeg" width="400">
 - 1차: 2016년 12월 15일
 
-### 강남 자격증 취득 준비모임 
+### 강남 자격증 취득 준비모임
 - 2차: [2017년 1월 17일(화)](https://www.meetup.com/awskrug/events/236721527/)
 - 1차: 2016년 12월 14일
 
 ## 판교 지역 모임
 
 ### 판교 초급자 모임
-- 1차: 2017년 1월 19일 
+- 1차: 2017년 1월 19일
 
 ### 판교 중급자 모임
 - 3차: [2017년 2월 9일](https://www.meetup.com/ko-KR/awskrug/events/237355577/)
@@ -207,17 +207,21 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
   - [AWS re:invent 2016 후기 - 정창훈](http://www.slideshare.net/seapy/aws-reinvent-2016)
   - [OpenSSL에 얽힌 비화](https://coolspeed.wordpress.com/2015/02/16/unseeable_comrade_in_arms/)
   - <img src="images/15941350_1311558948891159_2684273664402983473_n.jpg" width="400">
-- 1차: 2016년 12월 8일 
+- 1차: 2016년 12월 8일
 
 ## 구로-신촌 지역 모임
 
 ### 구로-신촌 모임
-- 1차: [2017년 3월 13일](https://www.meetup.com/awskrug/events/238137039)
-  - 이준희님 - [JAWS Days 참관 후기](http://www.slideshare.net/JoonHeeLee14/2017-jaws-days-24-20170313)
-  - 신승우님 - 이미지스토리지 AWS S3로 이사 가기
-  - <img src="images/guro-shinchon_1.jpg" width="400">
+- 3차: [2017년 4월 25일](https://www.meetup.com/awskrug/events/239093516/)
+  - 류한진님 - [Elastic Load Balancing : swimming lightly and my practice](https://docs.google.com/presentation/d/1SVqdeGNAcWFDnCI8iyXFzdN9jKGvHHnuZzBgJKUon80/pub?start=false&loop=false&delayms=3000)
+  - 이영경님 - 나의 첫 프로젝트는 왜 망했는가
+  - <img src="images/guro-shinchon_3.jpeg" width="300"/>
 - 2차: [2017년 4월 6일](https://www.meetup.com/awskrug/events/238411836/)
   - 김영헌님 - [나의 AWS 첫걸음 - Lambda로 시작하는 나의 지출 데이터 수집](https://www.slideshare.net/YoungKim15/aws-lambda-74604471)
   - 강효진님 - [ElasticBeansTalk - 콩과의 첫 대화](https://docs.google.com/presentation/d/14_n-QMHdAx2lIl-mhBsVnfrTUMR6RoKQWWUSAje9ZUs/edit?usp=sharing)
   - 정도현님 - [EC2 Deep Dive](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-deep-dive-on-amazon-ec2-instances-featuring-performance-optimization-best-practices-cmp301)
-  - <img src="images/guro-shinchon_2.jpg" width="400" />
+  - <img src="images/guro-shinchon_2.jpg" width="300" />
+- 1차: [2017년 3월 13일](https://www.meetup.com/awskrug/events/238137039)
+  - 이준희님 - [JAWS Days 참관 후기](http://www.slideshare.net/JoonHeeLee14/2017-jaws-days-24-20170313)
+  - 신승우님 - 이미지스토리지 AWS S3로 이사 가기
+  - <img src="images/guro-shinchon_1.jpg" width="300">
