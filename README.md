@@ -34,6 +34,19 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 
 ## 정기 세미나
 
+### [제10회 AWSKRUG 세미나 - AWS Summit 특집](http://onoffmix.com/event/92741) (2017.4.19-20)
+- [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현](https://www.youtube.com/watch?v=-Aic-aYBtck) - 김현민 솔루션즈 아키텍트, 메가존오회근 개발자, RGP Korea
+- [일본 시골 개발자의 AWS 활용기](https://www.youtube.com/watch?v=9oBS8X7TNEQ) - Takuya Tachibana (CEO, Heptagon and Leader of JAWS)
+- [중국에서의 AWS 활용 현황 및 유저그룹 활동](https://www.youtube.com/watch?v=FDvwqz2x8sg) - Becky Zhang (Co-Leader of Shanghai AWS UserGroup)  
+- [AWS에서 자바스크립트 활용: 서비스와 개발 도구](https://www.youtube.com/watch?v=Y-0GANPm_b8) - Julio Faeman (AWS Tech Evangelist)
+- [AWS Lambda 활용의 모든 것!](https://www.youtube.com/watch?v=DBqy-m0VM9U) - Randall Hunt (AWS Tech Evangelist)
+- [AWS를 통한 신뢰성 높은 지속적 배포 및 통합(CD/CI) 사례](https://www.youtube.com/watch?v=GfUcmB0tgqg) - 한종원, 윤제상 (HBSmith)
+- [AWS 기반 실시간 서비스 개발 및 운영 사례](https://www.youtube.com/watch?v=A-AhtoQ_G88) - 전승훈 수석 (삼성전자)
+- [Amazon SNS로 지속적 관리가 가능한 대용량 푸쉬 시스템 구축 여정](https://www.youtube.com/watch?v=XnX22EIjRhc) - 강승욱 (글로우데이즈)
+- [AWS와 Docker Swarm을 이용한 쉽고 빠른 콘테이너 오케스트레이션](https://www.youtube.com/watch?v=16LNWMqphOA) - 김충섭 (퍼플웍스)
+- [Amazon S3 이미지 온디맨드 리사이징을 통한 70% 서버 비용 줄이기](https://www.youtube.com/watch?v=c8tI-yLFXtM) - 김명보 (VCNC)
+- [레코벨의 추천 서비스 고군 분투기](https://www.youtube.com/watch?v=7ipAk-yaLxQ) - 박진우 팀장 (레코벨)
+
 ### [제9회 AWSKRUG-JAWS 고베 합동 IoT 세미나](http://onoffmix.com/event/82449) (2016.11.14)
 - AWS IoT 서비스 소개 - 윤석찬, AWS테크에반젤리스트
 - Smart Home Skill을 사용한 조명 컨트롤 - 이치카와, JAWSUG IoT 모임
