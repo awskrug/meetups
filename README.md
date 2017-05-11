@@ -197,9 +197,13 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 - 1차: 2016년 12월 13일
 
 ### 강남 SE 모임
-- 6차: [2017년 5월 10일(예정)](https://www.meetup.com/awskrug/events/238281757/)
-  - 최선근님 - TensorFlow on EC2
-  - Hands On - 나만의 Alexa Custom Skill 만들기
+- 7차: 일정 미정 => 6월 AWSKRUG 상반기 커뮤니티 데이로 대체
+  - 미정
+  - 미정
+- 6차: [2017년 5월 10일](https://www.meetup.com/awskrug/events/238281757/)
+  - [최선근님 - TensorFlow on EC2](https://www.slideshare.net/awskr/se-6-tensorflow-on-aws-p2-instance)
+  - [Hands On - 나만의 Alexa Custom Skill 만들기](https://developer.amazon.com/blogs/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill)
+  - <img src="images/awskrug-se-06.jpg" width="400">
 - 5차: [2017년 4월 5일](https://www.meetup.com/awskrug/events/238281757/)
   - [김준영님 - 좀 더 행복하게 일하기](http://www.slideshare.net/junyoungkim790/ss-74491116)
   - [윤제상님 - S3를 이용한 효과적인 SPA 배포](https://www.slideshare.net/jesangyoon/aws-s3-spa)
