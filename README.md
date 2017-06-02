@@ -247,6 +247,10 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 구로-신촌 지역 모임
 
 ### 구로-신촌 모임
+- 4차: [2017년 5월 16일](https://www.meetup.com/awskrug/events/239719446/)
+  - 장준엽님 - [대규모 트래픽 잘 견디기](https://docs.google.com/presentation/d/13aLidEukUS1dy1RV18RCR9J-NSED5jzTSZigd9DnRaY/edit#slide=id.p)
+  - 고봉석님 - 덕후의 AWS를 이용한 팬사이트 구축 실패 경험기
+  - <img src="images/guro-shinchon-4.jpg" width="300"/>
 - 3차: [2017년 4월 25일](https://www.meetup.com/awskrug/events/239093516/)
   - 류한진님 - [Elastic Load Balancing : swimming lightly and my practice](https://docs.google.com/presentation/d/1SVqdeGNAcWFDnCI8iyXFzdN9jKGvHHnuZzBgJKUon80/pub?start=false&loop=false&delayms=3000)
   - 이영경님 - 나의 첫 프로젝트는 왜 망했는가
