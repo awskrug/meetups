@@ -247,6 +247,10 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 구로-신촌 지역 모임
 
 ### 구로-신촌 모임
+- 5차: [2017년 6월 7일](https://www.meetup.com/awskrug/events/240281253/)
+  - 이수현님 - [Alexa는 Docker도 춤추게 한다](https://www.slideshare.net/ssuserdaed291/alexa-docker)
+  - 장강홍님 - [금융권 클라우드 이용기](https://www.slideshare.net/secret/4ZRbX4mF8fC7G7)
+  - <img src="images/guro-shinchon-5.jpg" width="300"/>
 - 4차: [2017년 5월 16일](https://www.meetup.com/awskrug/events/239719446/)
   - 장준엽님 - [대규모 트래픽 잘 견디기](https://docs.google.com/presentation/d/13aLidEukUS1dy1RV18RCR9J-NSED5jzTSZigd9DnRaY/edit#slide=id.p)
   - 고봉석님 - 덕후의 AWS를 이용한 팬사이트 구축 실패 경험기
