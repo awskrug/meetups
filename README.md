@@ -247,7 +247,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 구로-신촌 지역 모임
 
 ### 구로-신촌 모임
-- 6차: [2017년 7월 5일](https://www.meetup.com/awskrug/events/240281253/)
+- 6차: [2017년 7월 5일](https://www.meetup.com/awskrug/events/241106610/)
   - 김현민님 - AWS Greenglass 맛보기
   - 박관웅님 - [나는 “tyle”에서 AWS를 이렇게 구축(사용)했다.](https://www.slideshare.net/pouu69/tyle-aws)
   - <img src="images/guro-shinchon-6.jpg" width="300"/>
