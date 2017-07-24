@@ -247,6 +247,10 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 구로-신촌 지역 모임
 
 ### 구로-신촌 모임
+- 6차: [2017년 7월 5일](https://www.meetup.com/awskrug/events/240281253/)
+  - 김현민님 - AWS Greenglass 맛보기
+  - 박관웅님 - [나는 “tyle”에서 AWS를 이렇게 구축(사용)했다.](https://www.slideshare.net/pouu69/tyle-aws)
+  - <img src="images/guro-shinchon-6.jpg" width="300"/>
 - 5차: [2017년 6월 7일](https://www.meetup.com/awskrug/events/240281253/)
   - 이수현님 - [Alexa는 Docker도 춤추게 한다](https://www.slideshare.net/ssuserdaed291/alexa-docker)
   - 장강홍님 - [금융권 클라우드 이용기](https://www.slideshare.net/secret/4ZRbX4mF8fC7G7)
