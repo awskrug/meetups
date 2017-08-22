@@ -247,6 +247,17 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 구로-신촌 지역 모임
 
 ### 구로-신촌 모임
+- 8차: [2017년 8월 16일](https://www.meetup.com/awskrug/events/242238839/)
+  - 개발과 운영의 조화 DevOps, 여러분은 어떻게 생각하시나요?
+  - <img src="images/guro-shinchon-8.jpg" width="300"/> <img src="images/guro-shinchon-8(1).jpg" width="300"/>
+- 7차: [2017년 7월 26일](https://www.meetup.com/awskrug/events/241776984/)
+  - AWS Community Days Review
+    - 강효진님 - ElasticBeanstalk - 콩과의 대화
+    - 김영헌님 - [개인 지출 관리, AWS Lambda로 시작하기](https://youtu.be/OXpJSKcl_Jg)
+- 6차: [2017년 7월 5일](https://www.meetup.com/awskrug/events/241106610/)
+  - 김현민님 - AWS Greenglass 맛보기
+  - 박관웅님 - [나는 “tyle”에서 AWS를 이렇게 구축(사용)했다.](https://www.slideshare.net/pouu69/tyle-aws)
+  - <img src="images/guro-shinchon-6.jpg" width="300"/>
 - 5차: [2017년 6월 7일](https://www.meetup.com/awskrug/events/240281253/)
   - 이수현님 - [Alexa는 Docker도 춤추게 한다](https://www.slideshare.net/ssuserdaed291/alexa-docker)
   - 장강홍님 - [금융권 클라우드 이용기](https://www.slideshare.net/secret/4ZRbX4mF8fC7G7)
