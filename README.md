@@ -3,16 +3,28 @@ AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역
 <img src="images/awskrug-meetup.png" width="500">
 
 ## 바로가기
-- [정기 기술 콘퍼런스](#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스
-- [정기 세미나](#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나
-- [비정기 모임](#%EB%B9%84%EC%A0%95%EA%B8%B0-%EB%AA%A8%EC%9E%84): 각종 실습 행사 및 워크샵
 - [소모임](#%EC%86%8C%EB%AA%A8%EC%9E%84): 강남 및 판교 등 지역 모임, 자격증 취득등 분야별 모임
+- [기술 콘퍼런스](#%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4): 연간 기술 콘퍼런스
+- [기술 세미나](#%EC%A0%95%EA%B8%B0-%EC%84%B8%EB%AF%B8%EB%82%98): 분기(혹은 월별) 정기 세미나
+- [비정기 모임](#%EB%B9%84%EC%A0%95%EA%B8%B0-%EB%AA%A8%EC%9E%84): 각종 실습 행사 및 워크샵
 
-# AWSKRUG 정기 모임
+# 소모임
+AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 운영하고 있습니다. 각 소모임을 활성화 하기 위해 아래와 같은 지원 패키지를 준비하였습니다. 소모임을 운영하거나 참여하자 하시는 분은 http://www.awskr.org/groups/ 페이지를 참고하시기 바랍니다.(매월 일정도 확인하실 수 있습니다.)     
+## [강남 모임](Gangnam-Group.md)
+## [판교 모임](Pankyo-Group.md) 
+## [구로디지털 모임](https://github.com/awskrug/gudi-group)
+## [서버리스 모임](https://github.com/awskrug/serverless-group) 
+## [컨테이너 모임](https://github.com/awskrug/container-group) 
+## [CLI 모임](https://github.com/awskrug/cli-group) 
+## [아키텍처 모임](https://github.com/awskrug/architecture-group)
+## [데이터사이언스 모임](https://github.com/awskrug/datascience-lab)
+## [대학생 모임](https://github.com/ausg)
+## 디자이너 모임
+
+# 정기 모임
 AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다.
 
-## 정기 기술 콘퍼런스
-
+## 기술 콘퍼런스
 ### [2016 re:Invent 특집](http://onoffmix.com/event/84915) (2017.1.21)
 - [개발자를 위한 Amazon Lightsail Deep-Dive](http://www.slideshare.net/awskr/amazon-lightsail-deepdive-71332528), 정창훈 (당근마켓 개발자)
 - [Amazon Athena를 통한 데이터 분석하기](http://www.slideshare.net/awskr/amazon-athena-zeppelin), 김명보(VCNC 개발자)
@@ -33,7 +45,6 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [re:Invent 주요 서비스 요약 - 인프라 및 보안 기술 변화](http://www.slideshare.net/awskr/awskrug-reinvent) - 박상욱, 클라우드노아
 
 ## 정기 세미나
-
 ### [제10회 AWSKRUG 세미나 - AWS Summit 특집](http://onoffmix.com/event/92741) (2017.4.19-20)
 - [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현](https://www.youtube.com/watch?v=-Aic-aYBtck) - 김현민 솔루션즈 아키텍트, 메가존오회근 개발자, RGP Korea
 - [일본 시골 개발자의 AWS 활용기](https://www.youtube.com/watch?v=9oBS8X7TNEQ) - Takuya Tachibana (CEO, Heptagon and Leader of JAWS)
@@ -124,7 +135,6 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - AWSKRUG의 첫모임으로서 Amazon.com CTO인 Werner Vogels 박사님과 함께 한남동 일신빌딩 (Daum사옥)에서 열린 행사로 약 150여명이 참석하였습니다.
 
 ## 비정기 모임
-
 ### [AWS re:Invent Live! 2016](http://onoffmix.com/event/83908) (2016.12.1)
 - AWSKRUG 회원들과 함께 리인벤트 키노트를 밤샘 라이브로 함께 보고, 게임 및 핸즈온랩도 진행하는 이벤트
 
@@ -155,131 +165,3 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 ### AWSKRUG 초급사용자 워크샵(2015.4-7)
 - 스터디서치 개설 AWS 튜토리얼 및 실습     
 - 실습 진행: 김승연
-
-# 소모임
-AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 운영하고 있습니다. 각 소모임을 활성화 하기 위해 아래와 같은 지원 패키지를 준비하였습니다. 소모임을 운영하거나 참여하자 하시는 분은 http://www.awskr.org/groups/ 페이지를 참고하시기 바랍니다.(매월 일정도 확인하실 수 있습니다.)     
-## 분야별 소모임
-### 아키텍처 모임
-### [데이터사이언스 모임](https://github.com/awskrug/datascience-lab)
-### 디자이너 모임
-
-## 강남 지역 모임
-
-### 강남 초급자 모임
-- 5차: [2017년 4월 4일](https://www.meetup.com/awskrug/events/238551485/)
-  - [이재일님 - AWS Cognito 101](https://www.slideshare.net/volantrat/aws-cognito-101)
-  - [곽규복님 - EC2 예약인스턴스 알아보기](https://kyupokaws.wordpress.com/2017/04/04/rireserved-instance-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/)  
-- 4차: [2017년 3월 6일](https://www.meetup.com/awskrug/events/237863547/)
-  - [이종호님 - RDS MySQL 및 RDS Aurora 장단점](http://blog.naver.com/sory1008/220950167041)
-  - [최선근님 - AWS에서 Tensorflow 돌려보기](https://sunkeunchoi.github.io/awkrug-gangnam-beginner-2017-03-06/)  
-- 3차: [2017년 2월 7일](https://www.meetup.com/awskrug/events/237184794/)
-  - [서태호님 - Route53 활용하기](https://brunch.co.kr/@topasvga/49)
-  - [정도현님 - qwiklabs 실습해보기](qwiklabs.com)
-  - [곽규복님 - SA Associate 합격후기](kyupokaws.tk)
-- 2차: [2017년 1월 11일](https://www.meetup.com/awskrug/events/236720501/)
-  - [신상재님 - 클라우드 환경과 WebAPI 이야기](https://goo.gl/cp50KX)
-  - [김석영님 - S3 with CF & Route53](https://goo.gl/mal5Uf)
-  - [정도현님 - AWS계정을 만들고 해야할 것](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
-- 1차: 2016년 12월 7일
-  - [곽규복님 - AWS 시작하기](https://goo.gl/FdGbtZ)
-
-### 강남 중급자 모임
-- 4차: [2017년 3월 15일(예정)](https://www.meetup.com/awskrug/events/237902259/)
-- 3차: [2017년 2월 14일](https://www.meetup.com/awskrug/events/237360350/)
-  - [오회근님 - AWS를 활용한 얼굴분석 서비스 만들기 핸즈온랩]
-  - [AWS를 활용한 얼굴분석 서비스 만들기 #1 (시작)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-%EC%8B%9C%EC%9E%91-4aebbda19b36#.gw0yphb9w)
-  - [AWS를 활용한 얼굴분석 서비스 만들기 #2(라즈베리파이)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4-9d774277df2f#.gp0qkykba)
-  - [AWS를 활용한 얼굴분석 서비스 만들기 #3 (AWS)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-3-aws-91be55d1a109#.kz13rmob3)
-  - [AWS를 활용한 얼굴분석 서비스 만들기 #4 (Visualization)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-4-visualization-82667088f257#.cuqu2e1wh)
-  - [AWS를 활용한 얼굴분석 서비스 만들기 #5 (마무리)](https://medium.com/@harryoh/aws%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%96%BC%EA%B5%B4%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-5-%EB%A7%88%EB%AC%B4%EB%A6%AC-d1bf9905c4a3#.g6nx2lq7p)
-- 2차: 2017년 1월 12일
-  - [김석영님 - 톰캣 세션 클러스터링](http://www.slideshare.net/deuxksy/tomcat-session-clustering)
-  - [오회근님 - AWS를 활용한 얼굴분석 서비스 만들기](http://www.slideshare.net/HarryOh1/aws-71033837)
-  - GitHub : http://github.com/harryoh/funnyfaces
-  - Poly.ly (csv, DB연동 차트 솔루션) : https://plot.ly/
-  - <img src="images/IMG_0922.JPG" width="400">
-- 1차: 2016년 12월 13일
-
-### 강남 SE 모임
-- 7차: 일정 미정 => 6월 AWSKRUG 상반기 커뮤니티 데이로 대체
-  - 미정
-  - 미정
-- 6차: [2017년 5월 10일](https://www.meetup.com/awskrug/events/238281757/)
-  - [최선근님 - TensorFlow on EC2](https://www.slideshare.net/awskr/se-6-tensorflow-on-aws-p2-instance)
-  - [Hands On - 나만의 Alexa Custom Skill 만들기](https://developer.amazon.com/blogs/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill)
-  - <img src="images/awskrug-se-06.jpg" width="400">
-- 5차: [2017년 4월 5일](https://www.meetup.com/awskrug/events/238281757/)
-  - [김준영님 - 좀 더 행복하게 일하기](http://www.slideshare.net/junyoungkim790/ss-74491116)
-  - [윤제상님 - S3를 이용한 효과적인 SPA 배포](https://www.slideshare.net/jesangyoon/aws-s3-spa)
-  - <img src="images/awskrug-se-05.jpg" width="400">
-- 4차: [2017년 3월 8일](https://www.meetup.com/awskrug/events/237902172/)
-  - [한종원님 - AWS Lambdas with a Static Outgoing IP](https://www.slideshare.net/addnull/aws-lambdas-with-a-static-outgoing-ip)
-  - <img src="images/AWS_SE_20170308_05.jpg" width="400">
-- 3차: [2017년 2월 11일](https://www.meetup.com/awskrug/events/237486291/)
-  - 김현민님 - 한국 중소기업 개발자의 AWS 사용방법
-  - 김세연님 - AWS 이용후기
-  - [이영진님 - AWS 경험기](https://www.slideshare.net/secret/KEBcOqxtEJ9vC1)
-- 2차: 2017년 1월 11일
-  - [한종원님 - HB Smith에서는 AWS 이렇게 사용한다](http://www.slideshare.net/addnull/hb-smith-aws)
-  - [권민재님 - AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
-  - [윤제상님 - AWS Lambda를 이용한 CI/CD 기법](http://www.slideshare.net/jesangyoon/aws-lambda-cicd)
-  - <img src="images/2017-01-12-16-14-13.jpeg" width="400">
-- 1차: 2016년 12월 15일
-
-### 강남 자격증 취득 준비모임
-- 2차: [2017년 1월 17일(화)](https://www.meetup.com/awskrug/events/236721527/)
-- 1차: 2016년 12월 14일
-
-## 판교 지역 모임
-
-### 판교 초급자 모임
-- 1차: 2017년 1월 19일
-
-### 판교 중급자 모임
-- 3차: [2017년 2월 9일](https://www.meetup.com/ko-KR/awskrug/events/237355577/)
-  - [Build Custom AMI With Packer](https://github.com/giseongeom/presentations/blob/master/2017/2017.02.09-AWS-pangyo-mid/ec2-custom-ami-with-packer.pdf)
-  - [CloudFront](https://docs.google.com/presentation/d/1IIpg85ycTGsVbxDr1lamtJMRbsTVsR5iJa3aFbYyfCE/edit?usp=sharing)
-  - <img src="images/pangyo_mid_3.jpg" width="400">
-- 2차: [2017년 1월 6일](https://www.meetup.com/awskrug/events/236661048/)
-  - [AWS Cognito Federation Identity의 사용법과 역할 - 박진언](https://jinunpark.github.io/awskrug_20170106_introduction_to_aws_cognito)
-  - [클라우드에서의 보안 - 정도현](http://www.slideshare.net/AmazonWebServices/intro-to-aws-security-50364629)
-  - [AWS re:invent 2016 후기 - 정창훈](http://www.slideshare.net/seapy/aws-reinvent-2016)
-  - [OpenSSL에 얽힌 비화](https://coolspeed.wordpress.com/2015/02/16/unseeable_comrade_in_arms/)
-  - <img src="images/15941350_1311558948891159_2684273664402983473_n.jpg" width="400">
-- 1차: 2016년 12월 8일
-
-## 구로-신촌 지역 모임
-
-### 구로-신촌 모임
-- 8차: [2017년 8월 16일](https://www.meetup.com/awskrug/events/242238839/)
-  - 개발과 운영의 조화 DevOps, 여러분은 어떻게 생각하시나요?
-  - <img src="images/guro-shinchon-8.jpg" width="300"/> <img src="images/guro-shinchon-8(1).jpg" width="300"/>
-- 7차: [2017년 7월 26일](https://www.meetup.com/awskrug/events/241776984/)
-  - AWS Community Days Review
-    - 강효진님 - ElasticBeanstalk - 콩과의 대화
-    - 김영헌님 - [개인 지출 관리, AWS Lambda로 시작하기](https://youtu.be/OXpJSKcl_Jg)
-- 6차: [2017년 7월 5일](https://www.meetup.com/awskrug/events/241106610/)
-  - 김현민님 - AWS Greenglass 맛보기
-  - 박관웅님 - [나는 “tyle”에서 AWS를 이렇게 구축(사용)했다.](https://www.slideshare.net/pouu69/tyle-aws)
-  - <img src="images/guro-shinchon-6.jpg" width="300"/>
-- 5차: [2017년 6월 7일](https://www.meetup.com/awskrug/events/240281253/)
-  - 이수현님 - [Alexa는 Docker도 춤추게 한다](https://www.slideshare.net/ssuserdaed291/alexa-docker)
-  - 장강홍님 - [금융권 클라우드 이용기](https://www.slideshare.net/secret/4ZRbX4mF8fC7G7)
-  - <img src="images/guro-shinchon-5.jpg" width="300"/>
-- 4차: [2017년 5월 16일](https://www.meetup.com/awskrug/events/239719446/)
-  - 장준엽님 - [대규모 트래픽 잘 견디기](https://docs.google.com/presentation/d/13aLidEukUS1dy1RV18RCR9J-NSED5jzTSZigd9DnRaY/edit#slide=id.p)
-  - 고봉석님 - 덕후의 AWS를 이용한 팬사이트 구축 실패 경험기
-  - <img src="images/guro-shinchon-4.jpg" width="300"/>
-- 3차: [2017년 4월 25일](https://www.meetup.com/awskrug/events/239093516/)
-  - 류한진님 - [Elastic Load Balancing : swimming lightly and my practice](https://docs.google.com/presentation/d/1SVqdeGNAcWFDnCI8iyXFzdN9jKGvHHnuZzBgJKUon80/pub?start=false&loop=false&delayms=3000)
-  - 이영경님 - 나의 첫 프로젝트는 왜 망했는가
-  - <img src="images/guro-shinchon_3.jpeg" width="300"/>
-- 2차: [2017년 4월 6일](https://www.meetup.com/awskrug/events/238411836/)
-  - 김영헌님 - [나의 AWS 첫걸음 - Lambda로 시작하는 나의 지출 데이터 수집](https://www.slideshare.net/YoungKim15/aws-lambda-74604471)
-  - 강효진님 - [ElasticBeansTalk - 콩과의 첫 대화](https://docs.google.com/presentation/d/14_n-QMHdAx2lIl-mhBsVnfrTUMR6RoKQWWUSAje9ZUs/edit?usp=sharing)
-  - 정도현님 - [EC2 Deep Dive](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-deep-dive-on-amazon-ec2-instances-featuring-performance-optimization-best-practices-cmp301)
-  - <img src="images/guro-shinchon_2.jpg" width="300" />
-- 1차: [2017년 3월 13일](https://www.meetup.com/awskrug/events/238137039)
-  - 이준희님 - [JAWS Days 참관 후기](http://www.slideshare.net/JoonHeeLee14/2017-jaws-days-24-20170313)
-  - 신승우님 - 이미지스토리지 AWS S3로 이사 가기
-  - <img src="images/guro-shinchon_1.jpg" width="300">
