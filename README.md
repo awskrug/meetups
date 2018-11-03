@@ -25,6 +25,19 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다.
 
 ## 기술 콘퍼런스
+### 2017 re:Invent 특집 (2018.1.26)
+- [Amazon AI 신규 서비스 맛보기 - 딥러닝에서 AI서비스까지](https://www.youtube.com/watch?v=xEn-e-i5fHc&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=4&t=9s) – 윤석찬 테크에반젤리스트
+- [머신 러닝으로 유창해지는 AWS의 언어 실력](https://www.youtube.com/watch?v=UHcMm09nPcY&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=5&t=0s) – 황준우 | 멋쟁이 사자처럼 
+- [사물 인터넷을 위한 AWS FreeRTOS 소개](https://www.youtube.com/watch?v=Qjea62zxDX8&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=6&t=0s) – 오회근 | 강남 중급자 모임
+- [Amazon MQ – 쉽게 시작하는 메시지 브로커 서비스](https://www.youtube.com/watch?v=rSNBPvXz1Oc&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=7&t=0s) – 장준엽 | 구로디지털 모임 
+- [App Sync, 모바일 개발을 위한 GraphQL as a Service](https://www.youtube.com/watch?v=chUsMVg04nU&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=8&t=30s) – 원지혁 | 대학생 모임
+- [AWS 서버리스 신규 서비스 총정리](https://www.youtube.com/watch?v=PTgli1_Z1Ao&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=9&t=0s) – 김현민 | 서버리스 모임
+- [AWS로 돌아온 Cloud9, 클라우드 IDE 활용법](https://www.youtube.com/watch?v=Iq90bFh1wrI&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=10&t=0s) – 김탁희 | 멋쟁이 사자처럼 
+- [ECS/Fargate와 함께하는 간편한 Docker 사용법](https://www.youtube.com/watch?v=bEr_98NRlzc&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=11&t=1492s) – 변규현 | 컨테이너 모임
+- [Aurora Serverless, 서버리스 RDB의 서막](https://www.youtube.com/watch?v=6j-QyBqu3fg&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=12&t=0s) - 김영헌 | 구로디지털 모임 
+- [S3 Select를 통한 빠른 데이터 분석하기](https://www.youtube.com/watch?v=hkU4I7MhIfs&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=13&t=0s) – 김명보 | 센드버드
+- [Amazon SageMaker와 Deep Lens를 통한 딥러닝 모델 워크샵](https://github.com/awskrug/reinvent2017-recap-workshop) - 류한진/최선근 | 데이터사이언스 모임
+
 ### [2016 re:Invent 특집](http://onoffmix.com/event/84915) (2017.1.21)
 - [개발자를 위한 Amazon Lightsail Deep-Dive](http://www.slideshare.net/awskr/amazon-lightsail-deepdive-71332528), 정창훈 (당근마켓 개발자)
 - [Amazon Athena를 통한 데이터 분석하기](http://www.slideshare.net/awskr/amazon-athena-zeppelin), 김명보(VCNC 개발자)
@@ -45,7 +58,22 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [re:Invent 주요 서비스 요약 - 인프라 및 보안 기술 변화](http://www.slideshare.net/awskr/awskrug-reinvent) - 박상욱, 클라우드노아
 
 ## 정기 세미나
-### [제10회 AWSKRUG 세미나 - AWS Summit 특집](http://onoffmix.com/event/92741) (2017.4.19-20)
+### AWS Summit 2018 - Community Track (2018.4.17-18)
+- [Kotlin과 AWS와 함께라면 육군훈련소도 외롭지 않아](https://www.slideshare.net/awskorea/kotlin-aws-lambda), 강성훈 (레이니스트)
+- [Zappa를 통한 서버리스 마이크로서비스 구축하기](https://www.slideshare.net/awskorea/serverless-microservice-with-zappa-94463985), 송윤섭(에이비일팔공)
+- [AWS Lambda를 통한 Tensorflow 및 Keras 기반 추론 모델 서비스하기](https://www.slideshare.net/awskorea/aws-lambda-tensorflow-keras-inferences), 이준범 (넥슨코리아)
+- [Serverless Architecture를 응용한 실시간 DW 플랫폼 구현](https://www.slideshare.net/awskorea/power-plantsolarpoweranalysissystemusingserverlessarchitecturesuhjihyeong), 서지형 (해줌)
+- [Serverless로 이미지 크롤링 프로토타입 개발기](https://www.slideshare.net/awskorea/college-student-user-group-special-session-developing-image-crawing-prototype-with-serverless), 유호균(AUSG)
+- [Terraform을 이용한 Infrastructure as Code 실전 구성하기](https://www.slideshare.net/awskorea/configuring-practical-aws-based-infrastructure-as-code-using-terraform-byoun-jeonghun), 변정훈
+- [AWS에서 Kubernetes 실전 활용하기](https://www.slideshare.net/awskorea/practical-usage-of-kurbernetes-on-aws-yoo-byeongu), 유병우(버즈빌)
+- [AWS IoT를 이용한 퍼스널 푸드 컴퓨터 개발사례](https://www.slideshare.net/awskorea/development-of-personal-food-computer-using-aws-iot-hangwanghui), 한광희(이지팜)
+- [프론트엔드 개발자가 혼자 AWS 기반 웹애플리케이션 만들기](https://www.slideshare.net/awskorea/creating-aws-based-web-applications-with-one-frontend-developer-parkchanmin), 박찬민(에이아트)
+- [AWS 기반 Microservice 운영을 위한 데브옵스 사례와 Spinnaker 소개](https://www.slideshare.net/awskorea/introduction-of-spinnaker-and-dev-ops-for-awsbased-microservice-operation-kimyeonguk), 김영욱(삼성전자)
+- [모바일 게임을 만들기 위한 AWS 활용 고군분투기](https://www.slideshare.net/awskorea/struggles-of-utilizing-aws-to-build-moblie-games-choi-yongho), 하용호 (넥슨코리아)
+- [비용 관점에서 AWS 클라우드 아키텍처 디자인하기](https://www.slideshare.net/awskorea/aws-cloud-architecture-design-in-cost-perspective-ryu-hanjin), 류한진 (이랜드시스템즈)
+- [Lambda@Edge를 통한 점진적 서버리스 이전 및 멑티 리전 트래픽 길들이기](https://www.slideshare.net/awskorea/taming-multi-region-based-global-traffic-through-lambda-edge-94929766), 이상현 (빙글)
+
+### AWS Summit 2017 - Community Track (2017.4.19-20)
 - [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현](https://www.youtube.com/watch?v=-Aic-aYBtck) - 김현민 솔루션즈 아키텍트, 메가존오회근 개발자, RGP Korea
 - [일본 시골 개발자의 AWS 활용기](https://www.youtube.com/watch?v=9oBS8X7TNEQ) - Takuya Tachibana (CEO, Heptagon and Leader of JAWS)
 - [중국에서의 AWS 활용 현황 및 유저그룹 활동](https://www.youtube.com/watch?v=FDvwqz2x8sg) - Becky Zhang (Co-Leader of Shanghai AWS UserGroup)  
