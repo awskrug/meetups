@@ -11,14 +11,22 @@ AWS한국 사용자 모임에서는 다양한 정기 모임 및 분야별/지역
 # 소모임
 AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 운영하고 있습니다. 각 소모임을 활성화 하기 위해 아래와 같은 지원 패키지를 준비하였습니다. 소모임을 운영하거나 참여하자 하시는 분은 http://www.awskr.org/groups/ 페이지를 참고하시기 바랍니다.(매월 일정도 확인하실 수 있습니다.)     
 ## [강남 모임](Gangnam-Group.md)
-## [판교 모임](Pankyo-Group.md) 
+### 강남비기너
+### 강남 중급
+### 강남 SE
+## [판교 모임](Pankyo-Group.md)
 ## [구로디지털 모임](https://github.com/awskrug/gudi-group)
+## 부산 모임
 ## [서버리스 모임](https://github.com/awskrug/serverless-group) 
 ## [컨테이너 모임](https://github.com/awskrug/container-group) 
 ## [CLI 모임](https://github.com/awskrug/cli-group) 
 ## [아키텍처 모임](https://github.com/awskrug/architecture-group)
 ## [데이터사이언스 모임](https://github.com/awskrug/datascience-lab)
 ## [대학생 모임](https://github.com/ausg)
+## 엔터프라이즈 모임
+## 자격증 모임
+## 주니어 모임
+## 경력개발 모임 
 ## 디자이너 모임
 
 # 정기 모임
