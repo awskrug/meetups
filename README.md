@@ -15,8 +15,11 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ### 강남 중급
 ### 강남 SE
 ## [판교 모임](Pankyo-Group.md)
+### 판교 중급
+### 판교 SE
 ## [구로디지털 모임](https://github.com/awskrug/gudi-group)
 ## 부산 모임
+## 원주 모임
 ## [서버리스 모임](https://github.com/awskrug/serverless-group) 
 ## [컨테이너 모임](https://github.com/awskrug/container-group) 
 ## [CLI 모임](https://github.com/awskrug/cli-group) 
@@ -28,6 +31,8 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 주니어 모임
 ## 경력개발 모임 
 ## 디자이너 모임
+## [MXNet 모임](https://www.meetup.com/MXNet-Korea-User-Group/) Spin-off!
+## [Chaos Engineering 모임](https://www.meetup.com/Korea-Chaos-Engineering-Community/) Spin-off!
 
 # 정기 모임
 AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다.
