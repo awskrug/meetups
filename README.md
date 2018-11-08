@@ -19,7 +19,6 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ### 판교 SE
 ## [구로디지털 모임](https://github.com/awskrug/gudi-group)
 ## 부산 모임
-## 원주 모임
 ## [서버리스 모임](https://github.com/awskrug/serverless-group) 
 ## [컨테이너 모임](https://github.com/awskrug/container-group) 
 ## [CLI 모임](https://github.com/awskrug/cli-group) 
