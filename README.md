@@ -70,6 +70,16 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - [re:Invent 주요 서비스 요약 - 인프라 및 보안 기술 변화](http://www.slideshare.net/awskr/awskrug-reinvent) - 박상욱, 클라우드노아
 
 ## 정기 세미나
+### AWS DevDay 2018 - Community Track (2018.11.6)
+- [데이터센터 1도모르는 개발자가 마이크로서비스를 만났을때](https://www.slideshare.net/awskorea/4-micro-services-on-aws-cloud), 안주은 (MyMusicTaste)
+- [AWS Cloud9과 Workspace만으로 PC없는 개발환경 활용기](https://www.slideshare.net/awskorea/8-dev-in-workspace-and-cloud9), 박성용 (허밍랩) 
+- [커맨드라인(CLI)으로 쿠버네티스 컨테이너 조립하기](https://www.slideshare.net/awskorea/7-kops-cui), 유정열 (베스핀글로벌) 
+- [AWS SAM(Serverless Application Model) 을 이용한 백오피스 마이그레이션](https://www.slideshare.net/awskorea/6-backoffice-migration-aws-cloud-123375047), 현창훈 (HBSmith) 
+- [GraphQL with Lambda -서버리스 기반 모바일 앱 개발기](https://www.slideshare.net/awskorea/5-graph-ql-with-lambda), 신재현 (바로가기) 
+- [Apache MXNet/Gluon으로 쉽고 빠르게 구현하는 딥러닝](https://www.slideshare.net/awskorea/2-deep-learning-with-gluon), 정승환 (SK텔레콤) 
+- [스타트업 관점에서 본 AWS 선택과 집중](https://www.slideshare.net/awskorea/3-aws-for-startups), 한승호 (에멘탈) 
+- [딥러닝 서비스에 쓰이는 GPU 인스턴스 비용 효율을 위한 스팟(Spot) 활용기](https://www.slideshare.net/awskorea/1-gpu-spot-instances), 손은주 (매스프레소) 
+
 ### AWS Summit 2018 - Community Track (2018.4.17-18)
 - [Kotlin과 AWS와 함께라면 육군훈련소도 외롭지 않아](https://www.slideshare.net/awskorea/kotlin-aws-lambda), 강성훈 (레이니스트)
 - [Zappa를 통한 서버리스 마이크로서비스 구축하기](https://www.slideshare.net/awskorea/serverless-microservice-with-zappa-94463985), 송윤섭(에이비일팔공)
@@ -175,6 +185,7 @@ AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 �
 - AWSKRUG의 첫모임으로서 Amazon.com CTO인 Werner Vogels 박사님과 함께 한남동 일신빌딩 (Daum사옥)에서 열린 행사로 약 150여명이 참석하였습니다.
 
 ## 비정기 모임
+### 2017년 부터 비정기 모임은 소모임으로 분리되어 진행합니다. 
 ### [AWS re:Invent Live! 2016](http://onoffmix.com/event/83908) (2016.12.1)
 - AWSKRUG 회원들과 함께 리인벤트 키노트를 밤샘 라이브로 함께 보고, 게임 및 핸즈온랩도 진행하는 이벤트
 
