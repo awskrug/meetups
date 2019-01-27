@@ -26,12 +26,14 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## [데이터사이언스 모임](https://github.com/awskrug/datascience-lab)
 ## [대학생 모임](https://github.com/ausg)
 ## 엔터프라이즈 모임
-## 자격증 모임
-## 주니어 모임
-## 경력개발 모임 
-## 디자이너 모임
-## [MXNet 모임](https://www.meetup.com/MXNet-Korea-User-Group/) Spin-off!
-## [Chaos Engineering 모임](https://www.meetup.com/Korea-Chaos-Engineering-Community/) Spin-off!
+### 주니어 모임
+## 비정기 모임
+### 자격증 모임
+### 경력개발 모임 
+### 디자이너 모임
+## 스핀오프 모임
+### [MXNet 모임](https://www.meetup.com/MXNet-Korea-User-Group/)
+### [Chaos Engineering 모임](https://www.meetup.com/Korea-Chaos-Engineering-Community/)
 
 # 정기 모임
 AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다.
