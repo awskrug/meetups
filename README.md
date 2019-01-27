@@ -37,7 +37,24 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다.
 
 ## 기술 콘퍼런스
-### 2017 re:Invent 특집 (2018.1.26)
+### AWS Community Day re:Invent 2018 특집 (2019.1.25)
+- [AWS re:Invent 2018를 통해 본 개발자들이 원하는 4가지 클라우드 동향](https://www.slideshare.net/awskr/2019-aws-community-day-keynote) – 윤석찬 테크에반젤리스트
+- [Amazon API Gateway와 Lambda 함수 기반 Websocket 앱 구현하기](https://www.slideshare.net/awskr/amazon-api-gateway-lambda-websocket) - 권정빈 
+- [Amplify로 Neptune 그래프 DB 기반 모바일 앱 만들기](https://www.slideshare.net/awskr/amplify-neptune-db) - 김현민 
+- [Service Mesh, 좀 더 쉽게 - AWS App Mesh](https://www.slideshare.net/awskr/service-mesh-aws-app-mesh) - 안주은 
+- [Lake Formation, 데이터레이크 관리와 운영을 하나로](https://www.slideshare.net/awskr/lake-formation) - 이재성 
+- [SageMaker로 강화학습(RL) 마스터링](https://www.slideshare.net/awskr/sagemaker-rl) - 남궁선
+- [딥러닝@EDM페스티발 누가누가 잘 노나?](https://www.slideshare.net/awskr/edm-129312161) - 김태웅 
+- [Amazon Timestream 시계열 데이터 전용 DB 소개](https://www.slideshare.net/awskr/amazon-timestream-db) - 변규현 
+- [Firecracker, 서버리스 컴퓨팅을 위한 오픈소스 microVM 기술](https://www.slideshare.net/awskr/firecracker-microvm) - 류한진
+- [내 입맞에 맞는 프로그래밍 언어로 Lambda 함수 만들기](https://www.slideshare.net/awskr/lambda-129225930) - 정창훈
+- [Amazon DynamoDB 신기능 OnDemand 와 Transaction](https://www.slideshare.net/awskr/amazon-dynamodb-ondemand-transaction) - 윤평호
+- [Amazon.com 의 개인화 추천 / 예측 기능을 우리도 써 봅시다](https://www.slideshare.net/awskr/amazoncom-129165538) - 심호진
+- [블록체인 원장DB를 클라우드로 Amazon Quantum Ledger Database](https://www.slideshare.net/awskr/amazon-quatom-fully-managed-ledger-database) - 김예본
+- [RoboMaker로 DeepRacer 자율 주행차 만들기](https://www.slideshare.net/awskr/robomaker-deepracer-129160726) - 유정열
+- [Lambda Layers 로 람다함수 다이어트 하기](https://www.slideshare.net/awskr/lambda-layers) - 이경우
+- [데이터 라벨링 노가다는 이제 그만 - Amazon Sagemaker Ground Truth](https://www.slideshare.net/awskr/amazon-sagemaker-ground-truth-yan-so-129159906) - 소성운
+### AWS Community Day re:Invent 2017 특집(2018.1.26)
 - [Amazon AI 신규 서비스 맛보기 - 딥러닝에서 AI서비스까지](https://www.youtube.com/watch?v=xEn-e-i5fHc&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=4&t=9s) – 윤석찬 테크에반젤리스트
 - [머신 러닝으로 유창해지는 AWS의 언어 실력](https://www.youtube.com/watch?v=UHcMm09nPcY&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=5&t=0s) – 황준우 | 멋쟁이 사자처럼 
 - [사물 인터넷을 위한 AWS FreeRTOS 소개](https://www.youtube.com/watch?v=Qjea62zxDX8&list=PLORxAVAC5fUV_2Z7mZXteMJ4LXjIJqvXj&index=6&t=0s) – 오회근 | 강남 중급자 모임
