@@ -25,7 +25,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## [아키텍처 모임](https://github.com/awskrug/architecture-group)
 ## [데이터사이언스 모임](https://github.com/awskrug/datascience-lab)
 ## [대학생 모임](https://github.com/ausg)
-## 엔터프라이즈 모임
+## [잠실 모임(구 엔터프라이즈 모임)](https://github.com/awskrug/meetups/wiki/AWS-%EC%9E%A0%EC%8B%A4-%EB%AA%A8%EC%9E%84)
 ### 주니어 모임
 ## 비정기 모임
 ### 자격증 모임
