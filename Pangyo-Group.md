@@ -1,4 +1,19 @@
 ## 판교 지역 모임
+### 판교 소모임
+- 1차: 2019년 2월 13일
+
+  ![](/Users/yongho/Works/awskrug-pangyo/meetups/images/20190213_0.jpg)
+
+  ![](/Users/yongho/Works/awskrug-pangyo/meetups/images/20190213_1.jpg)
+
+  ![](/Users/yongho/Works/awskrug-pangyo/meetups/images/20190213_2.jpg)
+
+  ![](/Users/yongho/Works/awskrug-pangyo/meetups/images/20190213_3.jpg)
+
+- 발표 자료 : [도커와 쿠버네티스 기초 - 최용호](https://www.slideshare.net/secret/fnPUmHBC0DYCqB)
+
+
+
 
 ### 판교 초급자 모임
 - 1차: 2017년 1월 19일
