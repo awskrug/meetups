@@ -16,7 +16,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ### 강남비기너
 ### 강남 중급
 ### 강남 SE
-## [판교 모임](Pankyo-Group.md)
+## [판교 모임](https://github.com/awskrug/pangyo-group/)
 ### 판교 중급
 ### 판교 SE
 ## [구로디지털 모임](https://github.com/awskrug/gudi-group)
