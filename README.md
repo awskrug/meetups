@@ -36,6 +36,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 스핀오프 모임
 ### [MXNet 모임](https://www.meetup.com/MXNet-Korea-User-Group/)
 ### [Chaos Engineering 모임](https://www.meetup.com/Korea-Chaos-Engineering-Community/)
+### [집단지성 Frontend 유저그룹](https://github.com/public-frontend-group)
 
 # 정기 모임
 AWSKRUG에서는 100-300명 규모의 분기 및 반기별로 주제별 정기 세미나 및 기술 콘퍼런스를 개최하고 있습니다.
