@@ -8,7 +8,7 @@
 # Meetups
 ## 2019년
 <details>
-  <summary>1회 밋업 - <b>DevOps OKR</b> 11월 25일</summary>
+  <summary>2회 밋업 - <b>애자일 운동과 모던 개발 요소</b> 11월 25일</summary>
 
   ### `2회 밋업`
    * 애자일 운동과 모던 개발 요소 - 정도현님(AWS)
